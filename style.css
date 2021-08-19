@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body {
+    background-color: #e5c9c9;
+}
+
+
+.wrapper {
+    max-width: 1000px;
+    height: 50vh;
+    margin: 200px auto;
+    border: 1px solid black;
+
+}
+
+.wrapper__inner {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    height: 500px;
+    width:300px ;
+
+}
+.list {
+    padding-right: 100px;
+
+}
+.list_item {
+    margin: 50px;
+} */
+.max-h-0 {
+    max-height: 0;
+  }
